@@ -1,3 +1,15 @@
+## Screenshots
+### Homepage
+![splash](https://user-images.githubusercontent.com/77562867/170684406-48162750-8829-49dd-b985-d0fa974b4486.png)
+### Admin Dashboard
+![admin home](https://user-images.githubusercontent.com/77562867/170684977-c2c2088c-40cd-4379-bbb5-c34d5bc4da6d.png)
+### Blood Donation 
+![a donations](https://user-images.githubusercontent.com/77562867/170684578-d4e5d309-ffef-451f-8f28-4a360977b8e4.png)
+### Blood Request
+![bloodrequest](https://user-images.githubusercontent.com/77562867/170685166-ce9fcd60-bce6-4a32-b872-31839db17504.png)
+### Logout
+![logout](https://user-images.githubusercontent.com/77562867/170685207-e23c3318-cc4e-40e1-bb47-3e060dc90878.png)
+---
 
 ### Admin
 - Create Admin account using following command
